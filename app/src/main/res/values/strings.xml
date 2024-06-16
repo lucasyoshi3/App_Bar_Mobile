@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bar_Boteco_App_Android</string>
+    <string name="codigo">Codigo</string>
+    <string name="buscar">Buscar</string>
+    <string name="produto">Produto</string>
+    <string name="inserir">Salvar</string>
+    <string name="modificar">Modificar</string>
+    <string name="excluir">Excluir</string>
+    <string name="listar">Listar</string>
+    <string name="grande">Grande</string>
+    <string name="medio">Medio</string>
+    <string name="pequeno">Pequeno</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
